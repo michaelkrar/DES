@@ -1,3 +1,4 @@
+
 public class DES {
     private int[] key;
     private int keyLength;
@@ -10,7 +11,7 @@ public class DES {
         this.keyLength=key.length;
     }
     public int[] encrypt(int[] plaintext){
-        
+
         return null;
     }
     public int[] decrypt(int[] cyphertext){
